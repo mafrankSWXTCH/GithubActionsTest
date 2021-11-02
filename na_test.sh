@@ -1,3 +1,3 @@
 echo HI
 
-adf
+sleep 60 &
